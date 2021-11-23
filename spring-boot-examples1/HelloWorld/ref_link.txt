@@ -1,0 +1,4 @@
+https://www.codejava.net/frameworks/spring-boot/spring-boot-hello-world-example
+
+### to change port set in application.prerties
+server.port: 8082
